@@ -1,0 +1,4 @@
+interface:
+  display_name: "颜体楷书创作与评析"
+  short_description: "依据《颜勤礼碑》规律分析、创作、检查并评析颜体楷书作品"
+  default_prompt: "使用 $yan-regular-calligraphy 创作并检查一幅颜体楷书作品。"
